@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0322-coin-change](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0322-coin-change) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
