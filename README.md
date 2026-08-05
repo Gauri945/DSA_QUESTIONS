@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0622-design-circular-queue) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0622-design-circular-queue) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Dynamic Programming
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0622-design-circular-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
