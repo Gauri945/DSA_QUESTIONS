@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Dynamic Programming
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/1143-longest-common-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
