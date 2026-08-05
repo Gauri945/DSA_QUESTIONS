@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/1143-longest-common-subsequence) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Knapsack Problem
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
