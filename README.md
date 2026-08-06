@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0494-target-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0622-design-circular-queue) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
