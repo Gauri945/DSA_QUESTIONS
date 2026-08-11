@@ -120,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0622-design-circular-queue) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
