@@ -1,26 +1,32 @@
 class Solution {
-    public boolean canPartition(int[] nums) {
-        int sum = 0;
-        for(int x : nums){
-            sum += x;
+    public boolean canPartition(int[] arr) {
+        int sum=0;
+        for(int a:arr){
+            sum+=a;
         }
-        // Odd sum cannot be divided equally
-        if(sum % 2 != 0)
+       
+        if(sum%2!=0) return false;
+         int tar=sum/2;
+       Boolean dp[][] = new Boolean[arr.length][tar+1];
+        return solve(arr,0,0,tar,dp);
+    }
+    public static boolean solve(int []arr , int idx , int sum , int target,Boolean [][]dp){
+       
+            if(sum==target) return true;
+            
+        
+        if(idx == arr.length || sum > target) {
             return false;
-
-        int target = sum / 2;
-
-        boolean[] dp = new boolean[target + 1];
-        dp[0] = true;
-
-        for(int num : nums){
-            // Traverse backwards to avoid using same number twice
-            for(int j = target; j >= num; j--){
-                dp[j] = dp[j] || dp[j - num];
-            }
-
         }
 
-        return dp[target];
+
+        if(dp[idx][sum] != null) {
+            return dp[idx][sum];
+        }
+
+
+        boolean take = solve(arr,idx+1,sum+arr[idx] ,target,dp);
+        boolean not = solve(arr, idx+1 , sum , target,dp);
+        return dp[idx][sum] =take || not;
     }
 }
