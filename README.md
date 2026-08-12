@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0198-house-robber) |
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
