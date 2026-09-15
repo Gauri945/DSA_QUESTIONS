@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0031-next-permutation) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
