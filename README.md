@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0374-guess-number-higher-or-lower) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
