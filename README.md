@@ -109,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0494-target-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0494-target-sum) |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0072-edit-distance](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0091-decode-ways) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Linked List
