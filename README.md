@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0043-multiply-strings/) | Medium |
 | [0062-unique-paths](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0043-multiply-strings](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0043-multiply-strings/) | Medium |
 | [0072-edit-distance](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0091-decode-ways) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0043-multiply-strings/) | Medium |
 | [0258-add-digits](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0258-add-digits) |
 ## Number Theory
 | Problem Name | Difficulty |
