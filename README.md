@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0258-add-digits) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0047-permutations-ii](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0047-permutations-ii/) | Medium |
+| [0089-gray-code](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0494-target-sum](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0494-target-sum) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0099-recover-binary-search-tree) |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
