@@ -215,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0099-recover-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0099-recover-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Gauri945/DSA_QUESTIONS/tree/master/0099-recover-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Gauri945/DSA_QUESTIONS/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
